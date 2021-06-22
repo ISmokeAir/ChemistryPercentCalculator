@@ -35,7 +35,7 @@ switch (x) {
       break;
 
     case 3: //The operation of obtaining the percentage concentration
-      cout<<"Enter the solution table: ";
+      cout<<"Enter the solution's mass: ";
       cin>>s;
       cout<<"Enter the mass of the dissolved substance: ";
       cin>>d;
